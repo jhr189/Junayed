@@ -1,7 +1,83 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+    {
+        "key": "sb",
+        "value": "6I3CZ-Z0JSwVKKfBqnGiaoOK",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    },
+    {
+        "key": "datr",
+        "value": "6I3CZ0weWY0tWGDs4XmgHM9V",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    },
+    {
+        "key": "wd",
+        "value": "1920x945",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100094357741986",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    },
+    {
+        "key": "xs",
+        "value": "32%3AEZ3MMRE2Y0DlxA%3A2%3A1750068096%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    },
+    {
+        "key": "fr",
+        "value": "0G04YxO3dndqq1Ob4.AWcJfncGbnMvJViRfBC6wgnlHrRjL2V2sSVpJUvmoiPV2l4VBS4.BoT-tV..AAA.0.0.BoT-uD.AWezWQO8VHqqcDjzcnazfmiiir4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1750068110009%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-06-16T10:16:47.258Z",
+        "lastAccessed": "2025-06-16T10:16:47.258Z"
+    }
+]
